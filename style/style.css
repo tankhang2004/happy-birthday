@@ -139,7 +139,7 @@ body {
 .six .hat {
   position: absolute;
   top: -30px; /* Adjust the top position as needed */
-  left: 50%; /* Center the hat horizontally */
+  left: 70%; /* Center the hat horizontally */
   transform: translateX(-50%); /* Center the hat horizontally */
   width: 50px; /* Adjust the width as needed */
 }

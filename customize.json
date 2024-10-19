@@ -1,11 +1,11 @@
 {
   "greeting": "Nǐhǎo, Hân yêu dấu",
-  "name": "Hân",
+  "name": "欣",
   "greetingText": "Tên của em thật đẹp, giống như chính em vậy.",
   "wishText": "Chúc em luôn luôn vui vẻ và hạnh phúc, không chỉ hôm nay mà suốt cả cuộc đời. :)",
   "imagePath": "img/han.png",
   "text1": "Hôm nay là sinh nhật em rồi!!! :D",
-  "textInChatBox": "Chúc mừng sinh nhật, Han! Anh mong rằng dù bận rộn, em vẫn có một ngày thật vui vẻ và ấm áp, vì em xứng đáng với điều đó.",
+  "textInChatBox": "Chúc mừng sinh nhật, Hân! Anh mong rằng dù bận rộn, em vẫn có một ngày thật vui vẻ và ấm áp, vì em xứng đáng với điều đó.",
   "sendButtonLabel": "Gửi với tất cả tình yêu",
   "text2": "Ban đầu anh định chỉ gửi một lời chúc đơn giản...",
   "text3": "Nhưng rồi anh ngừng lại.",
@@ -16,7 +16,7 @@
   "smiley": ":)",
   "bigTextPart1": "Y",
   "bigTextPart2": "Ê",
-  "wishHeading": "Chúc mừng sinh nhật, Han!",
+  "wishHeading": "Happy Birthday, Hân!",
   "outroText": "Anh biết năm nay em bận học và không tổ chức sinh nhật, nhưng khi em rảnh, anh rất mong có dịp gặp em để tặng quà sinh nhật, dù muộn một chút vẫn ý nghĩa mà, đúng không? :)",
   "replayText": "Anh sẽ đợi lời nhắn từ em khi nào em có thời gian. Anh thật sự mong chờ!",
   "outroSmiley": ":)"
