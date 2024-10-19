@@ -135,14 +135,6 @@ body {
   margin: 0 auto;
   width: 150px; /* Adjust the width as needed */
 }
-
-.six .hat {
-  position: absolute;
-  top: -30px; /* Adjust the top position as needed */
-  left: 70%; /* Center the hat horizontally */
-  transform: translateX(-50%); /* Center the hat horizontally */
-  width: 50px; /* Adjust the width as needed */
-}
 .baloons img {
   display: inline-block;
   position: absolute;
